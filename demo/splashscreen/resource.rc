@@ -1,0 +1,5 @@
+
+#include "resource.h"
+
+IDI_ICON1               ICON                    "icon.ico"
+ID_SPLASHIMAGE          PNG                     "splashscreen.png"
